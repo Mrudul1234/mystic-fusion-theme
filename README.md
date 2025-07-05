@@ -26,7 +26,7 @@ Or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemN
 
 ## 🤝 Contribute 
 
-If you like to contribute feel free to mail me (mrudulmistry@gmail.com)
+If you like to contribute feel free to mail me- mrudulmistry@gmail.com
 ---
 
 ## 👾 Appreciation 
