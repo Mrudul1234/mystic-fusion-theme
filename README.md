@@ -24,6 +24,11 @@
 
 Or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=MrudulMistri.mystic-fusion-theme)
 
+## 🤝 Contribute 
+
+If you like to contribute feel free to mail me (mrudulmistry@gmail.com)
 ---
 
-## 👾👾 If you likeit give star my repo [Github](https://github.com/Mrudul1234/mystic-fusion-theme)
+## 👾 Appreciation 
+
+If you likeit my theme then leave a ⭐ in my repo [Github](https://github.com/Mrudul1234/mystic-fusion-theme)
