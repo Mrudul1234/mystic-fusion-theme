@@ -13,7 +13,7 @@
 
 ## 📸 Preview
 
-![Theme Preview](https://raw.githubusercontent.com/Mrudul1234/main/preview.PNG)
+![Theme Preview](https://github.com/Mrudul1234/mystic-fusion-theme/blob/main/preview.PNG?raw=true)
 
 ## 🚀 Installation
 
