@@ -13,7 +13,7 @@
 
 ## 📸 Preview
 
-![Theme Preview](https://raw.githubusercontent.com/Mrudul1234/preview.PNG)
+![Theme Preview](https://raw.githubusercontent.com/Mrudul1234/main/preview.PNG)
 
 ## 🚀 Installation
 
