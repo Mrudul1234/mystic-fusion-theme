@@ -22,7 +22,7 @@
 3. Search for **Mystic Fusion**
 4. Click **Install**
 
-Or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=mysticmrudul.mystic-fusion-theme)
+Or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=MrudulMistri.mystic-fusion-theme)
 
 ---
 
