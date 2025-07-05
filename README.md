@@ -26,4 +26,4 @@ Or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemN
 
 ---
 
-## 💜 Inspired by creativity. Designed for focus.
+##If you likeit give star my repo [Github](https://github.com/Mrudul1234/mystic-fusion-theme)
