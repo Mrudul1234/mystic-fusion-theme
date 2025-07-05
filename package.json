@@ -1,0 +1,18 @@
+{
+  "name": "mystic-fusion-theme",
+  "displayName": "Mystic Fusion",
+  "description": "A violet-inspired VS Code theme for mystical vibes.",
+  "version": "1.0.0",
+  "publisher": "mysticmrudul",
+  "engines": { "vscode": "^1.50.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystic Fusion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mystic-fusion-color-theme.json"
+      }
+    ]
+  }
+}
