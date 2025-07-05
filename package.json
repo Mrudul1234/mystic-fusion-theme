@@ -5,6 +5,12 @@
   "version": "1.0.0",
   "publisher": "MrudulMistri",
   "engines": { "vscode": "^1.50.0" },
+  
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Mrudul1234/mystic-fusion-theme.git"
+},
+
   "categories": ["Themes"],
   "contributes": {
     "themes": [
