@@ -26,4 +26,4 @@ Or visit the [Marketplace page](https://marketplace.visualstudio.com/items?itemN
 
 ---
 
-##If you likeit give star my repo [Github](https://github.com/Mrudul1234/mystic-fusion-theme)
+##👾👾If you likeit give star my repo [Github](https://github.com/Mrudul1234/mystic-fusion-theme)
