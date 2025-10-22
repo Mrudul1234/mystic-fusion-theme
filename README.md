@@ -32,3 +32,7 @@ If you like to contribute feel free to mail me- mrudulmistry@gmail.com
 ## 👾 Appreciation 
 
 If you likeit my theme then leave a ⭐ in my repo [Github](https://github.com/Mrudul1234/mystic-fusion-theme)
+
+## 👋 Let's Connect 
+
+🦉[Twitter](https://x.com/Mrudul_mistri?t=SP5fHdHfXe4etJNjGBpnkQ&s=09)
