@@ -1,24 +1,7 @@
 <!-- ================== Animated SVG Banner ================== -->
-<p align="center">
-  <svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#7b5cff">
-          <animate attributeName="stop-color" values="#7b5cff;#9b59b6;#7b5cff" dur="4s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#9b59b6">
-          <animate attributeName="stop-color" values="#9b59b6;#7b5cff;#9b59b6" dur="4s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-          font-size="300" font-family="Verdana, Geneva, sans-serif"
-          fill="url(#grad)">
-      Mystic Fusion
-    </text>
-  </svg>
-</p>
-
+<h1 align="center" >
+ Mystic Fusion
+</h1>
 
 <p align="center">
   <b>Where elegance meets focus — a dark violet coding experience</b><br/>
