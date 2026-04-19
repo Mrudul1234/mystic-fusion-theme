@@ -1,17 +1,58 @@
 {
   "name": "mystic-fusion-theme",
-  "displayName": "Mystic Fusion",
-  "description": "A violet-inspired VS Code theme for mystical vibes.",
+  "displayName": "Mystic Fusion - Dark Violet Theme",
+  "description": "A dark violet VS Code theme built for focus, readability, and immersive night coding. Purple, mystical, minimal — crafted for developers who code deep into the night.",
   "version": "1.0.18",
   "publisher": "MrudulMistri",
-  "engines": { "vscode": "^1.50.0" },
+  "license": "MIT",
   "icon": "icon.jpg",
+  "galleryBanner": {
+    "color": "#1a0533",
+    "theme": "dark"
+  },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Mrudul1234/mystic-fusion-theme.git"
-},
-
+    "type": "git",
+    "url": "https://github.com/Mrudul1234/mystic-fusion-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mrudul1234/mystic-fusion-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
   "categories": ["Themes"],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "color theme",
+    "purple",
+    "violet",
+    "mystic",
+    "night",
+    "dark purple",
+    "dark violet",
+    "eye strain",
+    "focus",
+    "minimal",
+    "neon",
+    "aesthetic",
+    "dracula",
+    "tokyo night",
+    "one dark",
+    "purple theme",
+    "night owl",
+    "syntax highlighting",
+    "developer",
+    "coding",
+    "productivity",
+    "javascript",
+    "python",
+    "fullstack",
+    "vscode theme",
+    "ui theme",
+    "workbench"
+  ],
   "contributes": {
     "themes": [
       {
